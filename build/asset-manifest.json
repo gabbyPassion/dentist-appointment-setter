@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_deploy_gh/static/css/main.b7d0119d.css",
+    "main.js": "/react_deploy_gh/static/js/main.8713e239.js",
+    "static/js/496.154e350b.chunk.js": "/react_deploy_gh/static/js/496.154e350b.chunk.js",
+    "static/media/smiling-friends.png": "/react_deploy_gh/static/media/smiling-friends.56a15c27008b41d6addc.png",
+    "index.html": "/react_deploy_gh/index.html",
+    "main.b7d0119d.css.map": "/react_deploy_gh/static/css/main.b7d0119d.css.map",
+    "main.8713e239.js.map": "/react_deploy_gh/static/js/main.8713e239.js.map",
+    "496.154e350b.chunk.js.map": "/react_deploy_gh/static/js/496.154e350b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d0119d.css",
+    "static/js/main.8713e239.js"
+  ]
+}
